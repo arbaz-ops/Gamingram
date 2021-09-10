@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>373985698443-gssajafdsddn6pj78u2eci4mf8p4cja8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.373985698443-gssajafdsddn6pj78u2eci4mf8p4cja8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC92Cg8Q1cIKXr_rIwCzgPHtGqZPnfxL2o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>373985698443</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ABC.Gamingram</string>
+	<key>PROJECT_ID</key>
+	<string>gamingram-4c0c2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gamingram-4c0c2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:373985698443:ios:fdae13a913f62d3d0fea8e</string>
+</dict>
+</plist>

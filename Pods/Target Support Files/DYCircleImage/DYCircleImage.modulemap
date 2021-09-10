@@ -1,0 +1,6 @@
+framework module DYCircleImage {
+  umbrella header "DYCircleImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

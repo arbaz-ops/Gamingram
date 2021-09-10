@@ -1,0 +1,6 @@
+framework module IGStoriesView {
+  umbrella header "IGStoriesView-umbrella.h"
+
+  export *
+  module * { export * }
+}
